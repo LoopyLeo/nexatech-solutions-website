@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://YOUR-GITHUB-USERNAME.github.io/YOUR-REPOSITORY/</loc></url>
-  <url><loc>https://YOUR-GITHUB-USERNAME.github.io/YOUR-REPOSITORY/about.html</loc></url>
-  <url><loc>https://YOUR-GITHUB-USERNAME.github.io/YOUR-REPOSITORY/services.html</loc></url>
-  <url><loc>https://YOUR-GITHUB-USERNAME.github.io/YOUR-REPOSITORY/wordpress.html</loc></url>
-  <url><loc>https://YOUR-GITHUB-USERNAME.github.io/YOUR-REPOSITORY/projects.html</loc></url>
-  <url><loc>https://YOUR-GITHUB-USERNAME.github.io/YOUR-REPOSITORY/contact.html</loc></url>
+  <url><loc>https://LoopyLeo.github.io/nexatech-solutions-website/</loc></url>
+  <url><loc>https://LoopyLeo.github.io/nexatech-solutions-website/about.html</loc></url>
+  <url><loc>https://LoopyLeo.github.io/nexatech-solutions-website/services.html</loc></url>
+  <url><loc>https://LoopyLeo.github.io/nexatech-solutions-website/wordpress.html</loc></url>
+  <url><loc>https://LoopyLeo.github.io/nexatech-solutions-website/projects.html</loc></url>
+  <url><loc>https://LoopyLeo.github.io/nexatech-solutions-website/contact.html</loc></url>
 </urlset>
